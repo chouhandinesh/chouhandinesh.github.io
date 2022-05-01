@@ -86,7 +86,7 @@ a, a:visited {
 	transition: all 0.3s ease-in-out;
 }
 a:hover, a:focus, a:active {
-	color: #ffffff;
+	color: #1f8c93;
 	outline: 0;
 }
 
@@ -1387,7 +1387,7 @@ header{
 	letter-spacing: .25rem;
 }
 .intro-content .button:hover, .intro-content .button:focus {
-	border-color: #cc005f;
+	border-color: #1f8c93;
 }
 .intro-content .button::after {
 	display: inline-block;
@@ -1419,7 +1419,7 @@ header{
 	color: #FFFFFF;
 }
 .intro-social li a:hover, .intro-social li a:focus {
-	color: #cc005f;
+	color: #1f8c93;
 }
 
 /**
@@ -1959,7 +1959,7 @@ header{
 	border-right: 1px solid rgba(200, 200, 200, 0.1);
 }
 .popup-modal .link-box a:hover {
-	background: #cc005f;
+	background: #1f8c93;
 	border: none;
 }
 @media only screen and (max-width:600px) {
@@ -2329,7 +2329,7 @@ header{
 	color: #FFFFFF;
 }
 #contact button.submitform:hover, #contact button.submitform:focus {
-	background: #cc005f;
+	background: #808080;
 }
 #message-warning, #message-success {
 	display: none;
@@ -2541,7 +2541,7 @@ footer .copyright span:last-child::after {
 	width: 6rem;
 	line-height: 6.6rem;
 	text-align: center;
-	background: #cc005f;
+	background: #1f8c93;
 	color: #FFFFFF;
 	text-align: center;
 	text-transform: uppercase;
