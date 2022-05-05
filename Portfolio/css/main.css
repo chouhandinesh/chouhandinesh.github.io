@@ -1037,7 +1037,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	margin-bottom: 1.2rem;
 }
 .section-intro h5 {
-	color: #1f8c93;
+	color: #1f0e1d;
 	font-size: 1.6rem;
 	line-height: 1.875;
 	margin-bottom: 0.3rem;
@@ -1120,7 +1120,7 @@ header .logo a {
 	/* background-size: 113px 30px; */
 }
 header{
-	background-color: #1f8c93;
+	background-color: #1f0e1d;
 	width: 225px;
 	height:66px;
 	display: inline;
